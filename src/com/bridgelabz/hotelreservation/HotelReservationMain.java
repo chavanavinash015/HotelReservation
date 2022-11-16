@@ -24,5 +24,6 @@ public class HotelReservationMain {
 
         HotelReservationSystem check = new HotelReservationSystem();
         check.cheapestHotelinWeekdays();
+        check.cheapestHotelinWeekend();
     }
 }
