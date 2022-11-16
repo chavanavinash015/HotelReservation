@@ -1,6 +1,8 @@
 package com.bridgelabz.hotelreservation;
 
-public class HotelReservation {
+public class HotelReservationSystem {
+
+
 
 
 }
