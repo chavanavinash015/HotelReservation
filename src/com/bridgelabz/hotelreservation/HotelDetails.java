@@ -20,6 +20,10 @@ public class HotelDetails {
         this.hotelRatings = hotelRatings;
     }
 
+    public HotelDetails() {
+
+    }
+
     public String getHotelName() {
         return hotelName;
     }

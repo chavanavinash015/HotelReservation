@@ -22,5 +22,7 @@ public class HotelReservationMain {
 
         System.out.println(hotelDetailsList);
 
+        HotelReservationSystem check = new HotelReservationSystem();
+        check.cheapestHotelinWeekdays();
     }
 }
